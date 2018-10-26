@@ -18,4 +18,4 @@ jobs:
       - store_test_results:
           path: ./junit
       - store_artifacts:
-        path: ./junit
+          path: ./junit
